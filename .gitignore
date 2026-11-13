@@ -1,0 +1,8 @@
+# Explicit release allowlist: keep local research materials out of commits.
+/*
+!/.gitignore
+!/README.md
+!/bihyper.py
+!/bihyper_model.py
+!/hyper_utils.py
+!/ndcg.py
