@@ -7,7 +7,7 @@ Initial source release of BiHyper, a tail-aware two-sided hypergraph enhancement
 - `bihyper.py`: RecBole adapter, base encoder integration, training loss, and ablation switches.
 - `bihyper_model.py`: factorized hypergraph propagation, gated residual enhancement, and conflict regularization.
 - `hyper_utils.py`: user-side and item-side hypergraph construction.
-- `ndcg.py`: intersectional group evaluation from recommendation lists or a RecBole model.
+- `evaluation.py`: intersectional group evaluation from recommendation lists or a RecBole model.
 
 ## Release status
 
